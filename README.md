@@ -45,3 +45,6 @@ luaConfig.CityHall = {
         color = {r = 0, g = 255, b = 0, a = 100}
     }
 }
+
+
+https://discord.gg/Bx22Trwsd2
